@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-<!-- - Live Site URL: [Live Site URL:](linkHere)
-- Solution URL: [Solution URL:](linkHere) -->
+- Live Site URL: [Live Site URL:](https://pedantic-chandrasekhar-71e5a6.netlify.app/)
+- Solution URL: [Solution URL:](https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-xtmdDUtu9)
 
 ## My process
 
