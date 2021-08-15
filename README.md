@@ -1,8 +1,8 @@
-# Frontend -
+# Frontend - Huddle landing page
 
 <!-- Summary -->
 
-<!-- This is a solution to the [NameOfTheProject]( URL of it). Frontend Mentor challenges help you improve your coding skills by building realistic projects. -->
+This is a solution to the [Huddle landing page](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -25,8 +25,9 @@ Users should be able to:
 
 ### Screenshot
 
-<!-- ![](./DesignScreenshots/DesktopScreen.png)
-![](./DesignScreenshots/MobileVersion.png) -->
+![](./DesignScreenshots/active-states.jpg)
+![](./DesignScreenshots/desktop-design.jpg)
+![](./DesignScreenshots/mobile-design.jpg)
 
 ### Links
 
@@ -38,15 +39,15 @@ Users should be able to:
 ### Built with
 
 <!-- Info -->
-<!-- - Semantic HTML5 markup
+
+- Semantic HTML5 markup
 - CSS custom properties
 - Flex box
 - Desktop-first workflow
--->
 
 ### What I learned
 
-<!-- I learned more about  -->
+practiced more about font awesome and icons, also using position
 
 ## Author
 
