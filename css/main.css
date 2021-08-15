@@ -29,12 +29,12 @@ body {
   padding: 6.4rem 4rem;
   position: absolute;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   flex-direction: column;
-}
-body {
-}
-Inline #12 header {
-  align-self: flex-start;
+  max-width: 1440px;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
